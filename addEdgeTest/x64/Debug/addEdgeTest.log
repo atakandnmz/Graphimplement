@@ -1,0 +1,3 @@
+﻿  pch.cpp
+  test.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\cassert(9,10): fatal error C1014: çok fazla sayıda ekleme dosyası: derinlik = 1024
